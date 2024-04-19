@@ -89,3 +89,4 @@ class Product(models.Model):
                 return base64.b64encode(img_file.read()).decode('utf-8')
         except (ValueError, FileNotFoundError):
             return None
+        

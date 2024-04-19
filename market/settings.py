@@ -33,6 +33,7 @@ AUTH_USER_MODEL = 'shop.CustomUser'
 
 INSTALLED_APPS = [
     'django.contrib.admin',
+    'phonenumber_field',
     'django.contrib.auth',
     'django.contrib.contenttypes',
     'django.contrib.sessions',
