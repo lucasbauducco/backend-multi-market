@@ -1,7 +1,7 @@
 # backend-multi-market
-Bienvenido a [Nombre de la Plataforma], tu destino definitivo de compras en línea con una diversa gama de tiendas.
+Bienvenido a multi-market, tu destino definitivo de compras en línea con una diversa gama de tiendas.
 
-En [Nombre de la Plataforma], creemos en ofrecerte una experiencia de compra sin igual, reuniendo una amplia variedad de tiendas y marcas bajo un mismo techo digital. Nuestra plataforma de multi tiendas te permite explorar y comprar productos de numerosas categorías, desde tecnología de punta y moda hasta artículos para el hogar y productos gourmet, todo desde la comodidad de tu hogar.
+En multi-market, creemos en ofrecerte una experiencia de compra sin igual, reuniendo una amplia variedad de tiendas y marcas bajo un mismo techo digital. Nuestra plataforma de multi tiendas te permite explorar y comprar productos de numerosas categorías, desde tecnología de punta y moda hasta artículos para el hogar y productos gourmet, todo desde la comodidad de tu hogar.
 
 Características Únicas:
 
@@ -11,15 +11,15 @@ Características Únicas:
 
     Facilidad de Uso: Nuestra interfaz amigable e intuitiva hace que navegar por las distintas tiendas y productos sea un paseo. Busca, compara y compra con solo unos clics.
 
-    Ofertas y Promociones Exclusivas: Accede a ofertas especiales y descuentos exclusivos disponibles solo para usuarios de [Nombre de la Plataforma], permitiéndote ahorrar en grande en tus marcas favoritas.
+    Ofertas y Promociones Exclusivas: Accede a ofertas especiales y descuentos exclusivos disponibles solo para usuarios de multi-market, permitiéndote ahorrar en grande en tus marcas favoritas.
 
     Envíos a Todo el Mundo: Con opciones de envío flexibles, llevamos tus productos favoritos directamente a tu puerta, sin importar en qué parte del mundo te encuentres.
 
     Soporte al Cliente Excepcional: Nuestro dedicado equipo de atención al cliente está aquí para ayudarte con cualquier pregunta o inquietud que puedas tener, garantizando una experiencia de compra satisfactoria.
 
-En [Nombre de la Plataforma], estamos comprometidos a ofrecerte no solo productos de calidad y una selección incomparable, sino también a construir una comunidad de compradores y vendedores apasionados por las buenas ofertas y las últimas tendencias. Únete a nosotros hoy y descubre el placer de comprar en una plataforma que entiende verdaderamente la diversidad de tus necesidades de compra.
+En multi-market, estamos comprometidos a ofrecerte no solo productos de calidad y una selección incomparable, sino también a construir una comunidad de compradores y vendedores apasionados por las buenas ofertas y las últimas tendencias. Únete a nosotros hoy y descubre el placer de comprar en una plataforma que entiende verdaderamente la diversidad de tus necesidades de compra.
 
-¡Explora [Nombre de la Plataforma] ahora y transforma tu experiencia de compra en línea!
+¡Explora multi-market ahora y transforma tu experiencia de compra en línea!
 
 # Instalar Proyecto
 
