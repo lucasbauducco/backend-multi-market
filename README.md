@@ -23,7 +23,6 @@ En multi-market, estamos comprometidos a ofrecerte no solo productos de calidad 
 
 # Instalar Proyecto
 
-Breve descripción del proyecto y lo que hace.
 
 ## Pre-requisitos
 
